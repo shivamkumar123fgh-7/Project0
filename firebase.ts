@@ -9,7 +9,7 @@ import {
 import { getFirestore } from "firebase/firestore";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyB0HtnkZClU-rOkmaGXN_MgptoMfVhyHDU",
+  
   authDomain: "daily-habit-tracker-107.firebaseapp.com",
   projectId: "daily-habit-tracker-107",
   storageBucket: "daily-habit-tracker-107.appspot.com",
